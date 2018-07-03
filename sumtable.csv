@@ -1,0 +1,23 @@
+,Parameter,Initial,After GCP,Final
+Summary,Project,PKG09_CH_410_525TO414_525,PKG09_CH_410_525TO414_525,PKG09_CH_410_525TO414_525
+,Processed date,2018-03-20 01:49:53,2018-03-20 01:49:53,2018-03-20 01:49:53
+,Camera Model Name(s),ILCE-5100_EPZ16-50mmF3.5-5.6OSS_16.0_6000x4000 (RGB),ILCE-5100_EPZ16-50mmF3.5-5.6OSS_16.0_6000x4000 (RGB),ILCE-5100_EPZ16-50mmF3.5-5.6OSS_16.0_6000x4000 (RGB)
+,Average Ground Sampling Distance (GSD),2.65878013915884 cm / 1.04676383431451 in,2.65878013915884 cm / 1.04676383431451 in,2.65878013915884 cm / 1.04676383431451 in
+,,,,
+Quality check,No. of Images,583,583,583
+,No. of calibrated images,583,583,583
+,Percentage relative diff in camera parameters,2.8,2.8,2.8
+,,,,
+Bundle Block Adjustment Details,Number of 2D Keypoint Observations for Bundle Block Adjustment,6138108,6138108,6138108
+,Number of 3D Points for Bundle Block Adjustment,1855839,1855839,1855839
+,Mean Reprojection Error [pixels],0.2272,0.2272,0.2272
+,,,,
+Internal Camera Parameters,Initial Focal Length,16 mm,16 mm,16 mm
+,Optimised Focal Length,15.5512 mm,15.5512 mm,15.5512 mm
+,Focal length Uncertainties,0.004985 mm,0.004985 mm,0.004985 mm
+,Initial Principal Point (x),3000 pixel 11.66667 mm,3000 pixel 11.66667 mm,3000 pixel 11.66667 mm
+,Optimised Principal Point (x),2971.8 pixel 11.556939 mm,2971.8 pixel 11.556939 mm,2971.8 pixel 11.556939 mm
+,Principal point (x) Uncertainties,0.3 pixel ,0.3 pixel ,0.3 pixel 
+,Initial Principal Point (y),2000 pixel 7.77778 mm,2000 pixel 7.77778 mm,2000 pixel 7.77778 mm
+,Optimised Principal Point (y),1968.5 pixel 7.655414 mm,1968.5 pixel 7.655414 mm,1968.5 pixel 7.655414 mm
+,Principal point (y) Uncertainties,0.3 pixel ,0.3 pixel ,0.3 pixel 
